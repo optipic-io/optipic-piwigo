@@ -1,0 +1,11 @@
+.square-list {
+  list-style:square !important;
+  margin-left:35px !important;
+}
+  .square-list li {
+    margin-bottom:0 !important;
+  }
+  
+form.properties .showInfo {
+    display: inline; 
+}
